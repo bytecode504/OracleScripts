@@ -1,1 +1,2 @@
-# OracleScripts
+# Oracle Scripts for DBAs
+# -----------------------
