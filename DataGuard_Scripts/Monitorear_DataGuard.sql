@@ -1,5 +1,9 @@
 --Scripts para monitorear Oracle DataGuard
 --Elaborado por: ByteCode Solutions
+--https://www.fatihacar.com/blog/oracle-19c-r3-active-data-guard-installation-on-oracle-linux-7-7/
+--Enable Active DataGuard DML Redirection in Oracle 19c --> https://smarttechways.com/2020/11/27/enable-active-dataguard-dml-redirection-in-oracle-19c/
+
+
 
 --<Información de la Base de Dato>--
 SELECT DATABASE_ROLE, DB_UNIQUE_NAME INSTANCE, OPEN_MODE, PROTECTION_MODE, PROTECTION_LEVEL, SWITCHOVER_STATUS FROM V$DATABASE;
