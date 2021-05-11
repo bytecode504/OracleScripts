@@ -1,0 +1,2 @@
+--Query para verificar el progreso de Backup RMAN
+--Elaborado por: ByteCodeSolutions
